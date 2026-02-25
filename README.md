@@ -264,3 +264,5 @@ Se aplica el patrón Template Method porque:
 - Se evita duplicación de código.
 
 **Nota importante:** Esta claro en el enunciado que los salones solo pueden ser reservados por profesores o monitores, pero esta sera una opcion en donde se busque optimizar los salones que no son usados por profesores y monitores, ya que muchos estudiantes se sienten mejor estudiando ellos o su grupo en un salon. 
+
+Profe realice todo aca porque como le comente dure casi 1 hora enredada con las ramas y la verdad no entiendo el motivo, y las imagenes no me deja supervisar porque no se uestras bien pero no me da tiempo pa arreglarlo, gracias profe la quiero mucho.
